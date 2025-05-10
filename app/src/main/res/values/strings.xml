@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GamingStore</string>
+    <string name="sign_in_text"><u>Sign in</u></string>
+    <string name="back_image_description">Back to login Button</string>
+</resources>
