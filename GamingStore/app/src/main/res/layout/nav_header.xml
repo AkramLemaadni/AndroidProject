@@ -8,8 +8,8 @@
     android:padding="16dp">
 
     <ImageView
-        android:layout_width="70dp"
-        android:layout_height="70dp"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
         android:src="@drawable/logo_store"
         android:layout_gravity="end"/>
 
@@ -17,7 +17,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Welcome to '  '!"
+        android:text="Welcome to KA LowPc Store!"
         android:textColor="@android:color/white"
         android:textStyle="bold"
         android:textSize="20sp"/>
